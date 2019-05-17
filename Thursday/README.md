@@ -3,4 +3,5 @@
 1. Analysis of Big data
 2. Computer project - good practices
 3. Data analysis and visualisation
-4. Machien learning
+4. Machine learning
+5. finish all tutorials
